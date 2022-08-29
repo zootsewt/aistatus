@@ -21,6 +21,10 @@ sites:
     url: https://aiportal.army.mil/aiportal/Account/ConsentToMonitor
     method: POST
     __dangerous__insecure: true
+  - name: AI 1.0 (OLD Site)
+    url: https://www.armyignited.com/app/
+    method: POST
+    __dangerous__insecure: true
   #- name: AI_404
   #  url: https://www.armyignited.army.mil/status
   #  __dangerous__insecure: true
