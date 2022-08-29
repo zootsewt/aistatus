@@ -36,9 +36,9 @@ status-website:
   #cname: ai.auroraquasar.dom
   baseUrl: /aistatus
   theme: dark
-  name: AI Status
-  introTitle: "**AI Response Status**"
-  introMessage: View the live AI system response status
+  name: Web Status
+  introTitle: "**AI Web Response Status**"
+  introMessage: This dashboard provides HTTP response status. Overall health of the system (e.g., workflows, data integrity) are not included within this status.
   #links:
   #  - rel: stylesheet
   #    href: https://zootsewt.github.io/aistatus/assets/custom-theme.css
@@ -59,5 +59,5 @@ status-website:
 
 
 i18n:
-  footer: _
+  footer: For illustrative purposes only
   header: For illustrative purposes only
