@@ -3,7 +3,7 @@ owner: zootsewt # Your GitHub organization or username, where this repository li
 repo: aistatus # The name of this repository
 
 # Custom user agent
-user-agent: AI Monitor MITRE v0.1.0
+#user-agent: AI Monitor MITRE v0.1.0
 
 # Skip build processes on readme
 #skipDescriptionUpdate: true
@@ -23,7 +23,6 @@ sites:
     __dangerous__insecure: true
   - name: AI 1.0 (OLD Site)
     url: https://www.armyignited.com/app/
-    method: POST
     __dangerous__insecure: true
   #- name: AI_404
   #  url: https://www.armyignited.army.mil/status
