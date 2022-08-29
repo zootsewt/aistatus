@@ -43,7 +43,7 @@ status-website:
   #  - rel: stylesheet
   #    href: https://zootsewt.github.io/aistatus/assets/custom-theme.css
 
-  logoUrl: https://zootsewt.github.io/aistatus/assets/ai.logo.png
+  logoUrl: assets/ai.logo.png
 #  name: AI monitor
 # introTitle: "AI Montior"
 # introMessage: AI Monitoring
@@ -58,5 +58,5 @@ status-website:
 
 
 i18n:
-  #footer: AI Status
-  header: AI Status
+  footer: _
+  header: For illustrative purposes only
