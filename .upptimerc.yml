@@ -34,8 +34,8 @@ status-website:
   baseUrl: /aistatus
   theme: dark
   name: AI Status
-  introTitle: "**System Status**"
-  introMessage: View the live AI network uptime and incidents
+  introTitle: "**AI Response Status**"
+  introMessage: View the live AI system response status
   links:
     - rel: stylesheet
       href: https://zootsewt.github.io/aistatus/assets/custom-theme.css
@@ -55,5 +55,5 @@ status-website:
 
 
 i18n:
-  footer: AI Monitor.
-  header: AI Montior
+  #footer: AI Status
+  header: AI Status
