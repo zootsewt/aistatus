@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 886,
-    "timeDay": 886,
-    "timeWeek": 886,
-    "timeMonth": 886,
-    "timeYear": 886,
+    "time": 829,
+    "timeDay": 829,
+    "timeWeek": 829,
+    "timeMonth": 829,
+    "timeYear": 829,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2511,
-    "timeDay": 2511,
-    "timeWeek": 2511,
-    "timeMonth": 2511,
-    "timeYear": 2511,
+    "time": 2082,
+    "timeDay": 2082,
+    "timeWeek": 2082,
+    "timeMonth": 2082,
+    "timeYear": 2082,
     "dailyMinutesDown": {}
   },
   {
@@ -46,31 +46,29 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2908,
-    "timeDay": 2908,
-    "timeWeek": 2908,
-    "timeMonth": 2908,
-    "timeYear": 2908,
+    "time": 2557,
+    "timeDay": 2557,
+    "timeWeek": 2557,
+    "timeMonth": 2557,
+    "timeYear": 2557,
     "dailyMinutesDown": {}
   },
   {
     "name": "AI 1.0 (OLD Site)",
-    "url": "https://www.armyignited.com/app/",
+    "url": "https://www.armyignited.com",
     "icon": "https://favicons.githubusercontent.com/www.armyignited.com",
     "slug": "ai-1-0-old-site",
     "status": "down",
-    "uptime": "5.95%",
-    "uptimeDay": "5.95%",
-    "uptimeWeek": "5.95%",
-    "uptimeMonth": "5.95%",
-    "uptimeYear": "5.95%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
-    "dailyMinutesDown": {
-      "2022-08-29": 6
-    }
+    "dailyMinutesDown": {}
   }
 ]
