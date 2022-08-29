@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 911,
-    "timeDay": 911,
-    "timeWeek": 911,
-    "timeMonth": 911,
-    "timeYear": 911,
+    "time": 867,
+    "timeDay": 867,
+    "timeWeek": 867,
+    "timeMonth": 867,
+    "timeYear": 867,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1937,
-    "timeDay": 1937,
-    "timeWeek": 1937,
-    "timeMonth": 1937,
-    "timeYear": 1937,
+    "time": 1884,
+    "timeDay": 1884,
+    "timeWeek": 1884,
+    "timeMonth": 1884,
+    "timeYear": 1884,
     "dailyMinutesDown": {}
   },
   {
@@ -46,31 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2305,
-    "timeDay": 2305,
-    "timeWeek": 2305,
-    "timeMonth": 2305,
-    "timeYear": 2305,
+    "time": 2194,
+    "timeDay": 2194,
+    "timeWeek": 2194,
+    "timeMonth": 2194,
+    "timeYear": 2194,
     "dailyMinutesDown": {}
-  },
-  {
-    "name": "AI 1.0 (OLD Site)",
-    "url": "https://www.armyignited.com",
-    "icon": "https://favicons.githubusercontent.com/www.armyignited.com",
-    "slug": "ai-1-0-old-site",
-    "status": "down",
-    "uptime": "99.27%",
-    "uptimeDay": "99.27%",
-    "uptimeWeek": "99.27%",
-    "uptimeMonth": "99.27%",
-    "uptimeYear": "99.27%",
-    "time": 895,
-    "timeDay": 895,
-    "timeWeek": 895,
-    "timeMonth": 895,
-    "timeYear": 895,
-    "dailyMinutesDown": {
-      "2022-08-29": 0
-    }
   }
 ]
