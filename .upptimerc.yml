@@ -9,19 +9,15 @@ user-agent: AI Monitor MITRE v0.1.0
 #skipDescriptionUpdate: true
 
 sites:
- # - name: WWW_AI_2
- #   method: POST
- #   url: https://www.armyignited.army.mil/index.htm
- #   __dangerous__insecure: true
-  - name: AI_Students
+  - name: AI For Students
     url: https://armyignited.army.mil/index.htm
     method: POST
     __dangerous__insecure: true
-  - name: AI_Admin
+  - name: AI For Admin
     url: https://admin.armyignited.army.mil
     method: POST
     __dangerous__insecure: true
-  - name: AI_Portal
+  - name: AI Portal
     url: https://aiportal.army.mil/aiportal/Account/ConsentToMonitor
     method: POST
     __dangerous__insecure: true
@@ -37,12 +33,12 @@ status-website:
   #cname: ai.auroraquasar.dom
   baseUrl: /aistatus
   theme: dark
-  name: AI Monitor
+  name: AI Status
   introTitle: "**System Status**"
   introMessage: View the live AI network uptime and incidents
   links:
     - rel: stylesheet
-      href: https://zootsewt.github.io/aimonitor/assets/custom-theme.css
+      href: https://zootsewt.github.io/aistatus/assets/custom-theme.css
 
 #  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
 #  name: AI monitor
