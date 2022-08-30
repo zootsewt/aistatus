@@ -44,7 +44,7 @@ status-website:
   #  - rel: stylesheet
   #    href: https://zootsewt.github.io/aistatus/assets/custom-theme.css
 
-  logoUrl: https://www.armyignited.com/app/assets/img/ignited_lockup_wordmark_inv.svg
+  #logoUrl: https://www.armyignited.com/app/assets/img/ignited_lockup_wordmark_inv.svg
   #https://zootsewt.github.io/aistatus/assets/ai.logo.png
 #  name: AI monitor
 # introTitle: "AI Montior"
