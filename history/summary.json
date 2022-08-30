@@ -22,19 +22,19 @@
     "url": "https://admin.armyignited.army.mil",
     "icon": "https://favicons.githubusercontent.com/admin.armyignited.army.mil",
     "slug": "ai-for-admin",
-    "status": "down",
-    "uptime": "99.98%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 2754,
-    "timeDay": 2754,
-    "timeWeek": 2754,
-    "timeMonth": 2754,
-    "timeYear": 2754,
+    "status": "up",
+    "uptime": "92.02%",
+    "uptimeDay": "92.02%",
+    "uptimeWeek": "92.02%",
+    "uptimeMonth": "92.02%",
+    "uptimeYear": "92.02%",
+    "time": 3269,
+    "timeDay": 3269,
+    "timeWeek": 3269,
+    "timeMonth": 3269,
+    "timeYear": 3269,
     "dailyMinutesDown": {
-      "2022-08-30": 0
+      "2022-08-30": 58
     }
   },
   {
