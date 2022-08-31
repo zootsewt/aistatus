@@ -37,7 +37,7 @@ status-website:
   #cname: ai.auroraquasar.dom
   baseUrl: /aistatus
   theme: dark
-  name: Web Status
+  name: AI Web Status
   introTitle: "**AI Web Response Status**"
   introMessage: This dashboard provides HTTP response status. Overall health of the system (e.g., workflows, data integrity) are not included within this status.
   #links:
