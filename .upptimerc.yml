@@ -15,12 +15,12 @@ sites:
     method: GET
     __dangerous__insecure: true
   - name: AI For Admin
-    url: https://armyignited.army.mil/admin
-    method: POST
+    url: https://armyignited.army.mil/admin/
+    method: GET
     __dangerous__insecure: true
   - name: Academic Institution Portal
     url: https://aiportal.army.mil/aiportal/Account/ConsentToMonitor
-    method: POST
+    method: GET
     __dangerous__insecure: true
   #- name: AI 1.0 (OLD Site)
   #  url: https://www.armyignited.com
