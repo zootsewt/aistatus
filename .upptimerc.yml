@@ -12,7 +12,7 @@ repo: aistatus # The name of this repository
 sites:
   - name: AI For Students
     url: https://www.armyignited.army.mil/student/public/welcome
-    method: POST
+    method: GET
     __dangerous__insecure: true
   - name: AI For Admin
     url: https://armyignited.army.mil/admin
