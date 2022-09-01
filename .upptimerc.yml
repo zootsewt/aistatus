@@ -18,7 +18,7 @@ sites:
     url: https://armyignited.army.mil/admin/
     method: GET
     __dangerous__insecure: true
-  - name: Academic Institution Portal
+  - name: AI Portal
     url: https://aiportal.army.mil/aiportal/Account/ConsentToMonitor
     method: GET
     __dangerous__insecure: true
