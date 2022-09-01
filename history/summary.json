@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/www.armyignited.army.mil",
     "slug": "ai-for-students",
     "status": "up",
-    "uptime": "99.42%",
+    "uptime": "99.43%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.42%",
-    "uptimeMonth": "99.42%",
-    "uptimeYear": "99.42%",
-    "time": 2116,
-    "timeDay": 4427,
-    "timeWeek": 2116,
-    "timeMonth": 2116,
-    "timeYear": 2116,
+    "uptimeWeek": "99.43%",
+    "uptimeMonth": "99.43%",
+    "uptimeYear": "99.43%",
+    "time": 2060,
+    "timeDay": 3540,
+    "timeWeek": 2060,
+    "timeMonth": 2060,
+    "timeYear": 2060,
     "dailyMinutesDown": {
       "2022-08-31": 25
     }
@@ -30,34 +30,32 @@
     "uptimeWeek": "98.23%",
     "uptimeMonth": "98.23%",
     "uptimeYear": "98.23%",
-    "time": 2803,
-    "timeDay": 3996,
-    "timeWeek": 2803,
-    "timeMonth": 2803,
-    "timeYear": 2803,
+    "time": 2731,
+    "timeDay": 3264,
+    "timeWeek": 2731,
+    "timeMonth": 2731,
+    "timeYear": 2731,
     "dailyMinutesDown": {
       "2022-08-31": 20,
       "2022-08-30": 58
     }
   },
   {
-    "name": "Academic Institution Portal",
+    "name": "AI Portal",
     "url": "https://aiportal.army.mil/aiportal/Account/ConsentToMonitor",
     "icon": "https://favicons.githubusercontent.com/aiportal.army.mil",
-    "slug": "academic-institution-portal",
+    "slug": "ai-portal",
     "status": "up",
-    "uptime": "99.37%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.37%",
-    "uptimeMonth": "99.37%",
-    "uptimeYear": "99.37%",
-    "time": 2258,
-    "timeDay": 2424,
-    "timeWeek": 2258,
-    "timeMonth": 2258,
-    "timeYear": 2258,
-    "dailyMinutesDown": {
-      "2022-08-31": 27
-    }
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 2041,
+    "timeDay": 665,
+    "timeWeek": 2041,
+    "timeMonth": 2041,
+    "timeYear": 2041,
+    "dailyMinutesDown": {}
   }
 ]
