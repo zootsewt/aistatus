@@ -39,7 +39,7 @@ status-website:
   theme: dark
   name: AI Web Status
   introTitle: "**AI Web Response Status**"
-  introMessage: This dashboard provides HTTP response status. Overall health of the system (e.g., workflows, data integrity) are not included within this status.
+  introMessage: This dashboard provides HTTP response status. Overall health of the system (e.g., workflows, data integrity, login functionality) are not included within this status.
   #links:
   #  - rel: stylesheet
   #    href: https://zootsewt.github.io/aistatus/assets/custom-theme.css
