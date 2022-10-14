@@ -4,7 +4,7 @@ repo: aistatus # The name of this repository
 
 
 # Custom user agent
-#user-agent: AI Monitor MITRE v0.1.0
+#user-agent: 
 
 # Skip build processes on readme
 #skipDescriptionUpdate: true
