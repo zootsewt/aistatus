@@ -22,14 +22,6 @@ sites:
     url: https://aiportal.army.mil/aiportal/Account/ConsentToMonitor
     method: GET
     __dangerous__insecure: true
-  #- name: AI 1.0 (OLD Site)
-  #  url: https://www.armyignited.com
-  #  __dangerous__insecure: true
-  #- name: AI_404
-  #  url: https://www.armyignited.army.mil/status
-  #  __dangerous__insecure: true
-  #- name: Google_Sanity_Check
-  #  url: https://www.google.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -40,23 +32,7 @@ status-website:
   name: AI Web Status
   introTitle: "**AI Web Response Status**"
   introMessage: This dashboard provides HTTP response status. Overall health of the system (e.g., workflows, data integrity, login functionality) are not included within this status.
-  #links:
-  #  - rel: stylesheet
-  #    href: https://zootsewt.github.io/aistatus/assets/custom-theme.css
 
-  #logoUrl: https://www.armyignited.com/app/assets/img/ignited_lockup_wordmark_inv.svg
-  #https://zootsewt.github.io/aistatus/assets/ai.logo.png
-#  name: AI monitor
-# introTitle: "AI Montior"
-# introMessage: AI Monitoring
-#  navbar:
-#    - title: Status1
-#      href: /
-#    - title: GitHub
-#      href: https://github.com/$OWNER/$REPO
-#
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
 
 
 i18n:
