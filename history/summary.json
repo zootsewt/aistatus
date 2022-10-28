@@ -93,18 +93,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
     "slug": "ignore-this-test-site",
     "status": "up",
-    "uptime": "2.62%",
-    "uptimeDay": "2.62%",
-    "uptimeWeek": "2.62%",
-    "uptimeMonth": "2.62%",
-    "uptimeYear": "2.62%",
+    "uptime": "6.36%",
+    "uptimeDay": "6.36%",
+    "uptimeWeek": "6.36%",
+    "uptimeMonth": "6.36%",
+    "uptimeYear": "6.36%",
     "time": 56,
     "timeDay": 56,
     "timeWeek": 56,
     "timeMonth": 56,
     "timeYear": 56,
     "dailyMinutesDown": {
-      "2022-10-28": 139
+      "2022-10-28": 134
     }
   }
 ]
