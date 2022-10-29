@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.47%",
     "uptimeYear": "99.55%",
-    "time": 2112,
-    "timeDay": 1073,
-    "timeWeek": 1072,
-    "timeMonth": 2373,
-    "timeYear": 2112,
+    "time": 2099,
+    "timeDay": 1035,
+    "timeWeek": 1049,
+    "timeMonth": 2338,
+    "timeYear": 2099,
     "dailyMinutesDown": {
       "2022-10-09": 72,
       "2022-10-08": 26,
@@ -41,11 +41,11 @@
     "uptimeWeek": "99.74%",
     "uptimeMonth": "99.75%",
     "uptimeYear": "99.58%",
-    "time": 2710,
-    "timeDay": 1391,
-    "timeWeek": 1991,
-    "timeMonth": 2545,
-    "timeYear": 2710,
+    "time": 2691,
+    "timeDay": 1333,
+    "timeWeek": 1921,
+    "timeMonth": 2507,
+    "timeYear": 2691,
     "dailyMinutesDown": {
       "2022-10-23": 27,
       "2022-10-09": 27,
@@ -71,11 +71,11 @@
     "uptimeWeek": "99.74%",
     "uptimeMonth": "99.82%",
     "uptimeYear": "99.65%",
-    "time": 2633,
-    "timeDay": 1061,
-    "timeWeek": 1652,
-    "timeMonth": 2381,
-    "timeYear": 2633,
+    "time": 2692,
+    "timeDay": 1774,
+    "timeWeek": 2015,
+    "timeMonth": 2507,
+    "timeYear": 2692,
     "dailyMinutesDown": {
       "2022-10-26": 26,
       "2022-10-11": 32,
@@ -85,6 +85,26 @@
       "2022-09-08": 18,
       "2022-09-04": 16,
       "2022-09-03": 137
+    }
+  },
+  {
+    "name": "Ignore this test site",
+    "url": "https://www.google.com/map.test",
+    "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
+    "slug": "ignore-this-test-site",
+    "status": "down",
+    "uptime": "8.82%",
+    "uptimeDay": "8.82%",
+    "uptimeWeek": "8.82%",
+    "uptimeMonth": "8.82%",
+    "uptimeYear": "8.82%",
+    "time": 48,
+    "timeDay": 48,
+    "timeWeek": 48,
+    "timeMonth": 48,
+    "timeYear": 48,
+    "dailyMinutesDown": {
+      "2022-10-29": 0
     }
   }
 ]
