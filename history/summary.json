@@ -93,18 +93,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
     "slug": "ignore-this-test-site",
     "status": "up",
-    "uptime": "81.57%",
-    "uptimeDay": "81.57%",
-    "uptimeWeek": "81.57%",
-    "uptimeMonth": "81.57%",
-    "uptimeYear": "81.57%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 52,
     "timeDay": 53,
     "timeWeek": 52,
     "timeMonth": 52,
     "timeYear": 52,
-    "dailyMinutesDown": {
-      "2022-10-31": 2
-    }
+    "dailyMinutesDown": {}
   }
 ]
