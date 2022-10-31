@@ -23,7 +23,7 @@ sites:
     method: GET
     __dangerous__insecure: true
   - name: Ignore this test site
-    url: https://www.google.com/maps.test
+    url: https://www.google.com/
     method: GET
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
