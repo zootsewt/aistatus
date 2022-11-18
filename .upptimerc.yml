@@ -13,17 +13,17 @@ sites:
   - name: AI For Students
     url: https://www.armyignited.army.mil/student/public/welcome
     method: GET
-  #  maxResponseTime: 40000
+    maxResponseTime: 30000
     __dangerous__insecure: true
   - name: AI For Admin
     url: https://armyignited.army.mil/admin/
     method: GET
-  #  maxResponseTime: 40000
+    maxResponseTime: 30000
     __dangerous__insecure: true
   - name: AI Portal
     url: https://aiportal.army.mil/aiportal/Account/ConsentToMonitor
     method: GET
- #   maxResponseTime: 40000
+    maxResponseTime: 30000
     __dangerous__insecure: true
 #  - name: Ignore this test site
 #    url: https://www.google.com/maps.test
