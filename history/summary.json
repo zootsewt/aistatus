@@ -8,12 +8,12 @@
     "uptime": "98.28%",
     "uptimeDay": "90.92%",
     "uptimeWeek": "89.40%",
-    "uptimeMonth": "94.95%",
+    "uptimeMonth": "94.97%",
     "uptimeYear": "98.28%",
     "time": 2790,
     "timeDay": 547,
     "timeWeek": 2772,
-    "timeMonth": 3370,
+    "timeMonth": 3289,
     "timeYear": 2790,
     "dailyMinutesDown": {
       "2023-01-01": 80,
@@ -67,16 +67,16 @@
     "url": "https://armyignited.army.mil/admin/",
     "icon": "https://icons.duckduckgo.com/ip3/armyignited.army.mil.ico",
     "slug": "ai-for-admin",
-    "status": "up",
-    "uptime": "97.93%",
-    "uptimeDay": "90.02%",
-    "uptimeWeek": "87.11%",
-    "uptimeMonth": "92.30%",
-    "uptimeYear": "97.93%",
+    "status": "down",
+    "uptime": "97.94%",
+    "uptimeDay": "91.48%",
+    "uptimeWeek": "87.31%",
+    "uptimeMonth": "92.35%",
+    "uptimeYear": "97.94%",
     "time": 3203,
-    "timeDay": 6851,
-    "timeWeek": 4080,
-    "timeMonth": 3573,
+    "timeDay": 6589,
+    "timeWeek": 4180,
+    "timeMonth": 3594,
     "timeYear": 3203,
     "dailyMinutesDown": {
       "2023-01-01": 36,
@@ -111,7 +111,7 @@
       "2022-11-30": 7,
       "2022-11-29": 96,
       "2022-11-28": 31,
-      "2022-11-23": 113
+      "2022-11-23": 92
     }
   },
   {
@@ -128,7 +128,7 @@
     "time": 2745,
     "timeDay": 396,
     "timeWeek": 2841,
-    "timeMonth": 2730,
+    "timeMonth": 2759,
     "timeYear": 2745,
     "dailyMinutesDown": {
       "2023-01-01": 56,
