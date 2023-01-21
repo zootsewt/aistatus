@@ -4,19 +4,19 @@
     "url": "https://www.armyignited.army.mil/student/public/welcome",
     "icon": "https://icons.duckduckgo.com/ip3/www.armyignited.army.mil.ico",
     "slug": "ai-for-students",
-    "status": "up",
-    "uptime": "98.30%",
-    "uptimeDay": "97.20%",
-    "uptimeWeek": "98.80%",
-    "uptimeMonth": "94.95%",
-    "uptimeYear": "98.30%",
+    "status": "down",
+    "uptime": "98.32%",
+    "uptimeDay": "97.12%",
+    "uptimeWeek": "98.79%",
+    "uptimeMonth": "94.94%",
+    "uptimeYear": "98.32%",
     "time": 2770,
     "timeDay": 2306,
     "timeWeek": 3235,
     "timeMonth": 2653,
     "timeYear": 2770,
     "dailyMinutesDown": {
-      "2023-01-21": 40,
+      "2023-01-21": 41,
       "2023-01-20": 33,
       "2023-01-16": 47,
       "2023-01-12": 46,
@@ -57,7 +57,7 @@
       "2022-11-29": 76,
       "2022-11-28": 21,
       "2022-11-23": 188,
-      "2022-11-02": 99
+      "2022-11-02": 75
     }
   },
   {
@@ -65,16 +65,16 @@
     "url": "https://armyignited.army.mil/admin/",
     "icon": "https://icons.duckduckgo.com/ip3/armyignited.army.mil.ico",
     "slug": "ai-for-admin",
-    "status": "up",
-    "uptime": "98.06%",
-    "uptimeDay": "92.83%",
+    "status": "down",
+    "uptime": "98.08%",
+    "uptimeDay": "94.13%",
     "uptimeWeek": "95.80%",
-    "uptimeMonth": "91.30%",
-    "uptimeYear": "98.06%",
+    "uptimeMonth": "91.43%",
+    "uptimeYear": "98.08%",
     "time": 3220,
-    "timeDay": 3053,
+    "timeDay": 2946,
     "timeWeek": 2561,
-    "timeMonth": 3690,
+    "timeMonth": 3717,
     "timeYear": 3220,
     "dailyMinutesDown": {
       "2023-01-21": 37,
@@ -108,7 +108,7 @@
       "2022-12-22": 227,
       "2022-12-21": 95,
       "2022-12-20": 92,
-      "2022-12-19": 116
+      "2022-12-19": 78
     }
   },
   {
