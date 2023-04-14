@@ -73,12 +73,12 @@
     "slug": "ai-for-admin",
     "status": "up",
     "uptime": "98.74%",
-    "uptimeDay": "87.77%",
+    "uptimeDay": "97.45%",
     "uptimeWeek": "96.91%",
     "uptimeMonth": "98.54%",
     "uptimeYear": "98.74%",
     "time": 3066,
-    "timeDay": 3578,
+    "timeDay": 3004,
     "timeWeek": 2833,
     "timeMonth": 2937,
     "timeYear": 3066,
@@ -138,18 +138,19 @@
     "url": "https://aiportal.army.mil/aiportal/Account/ConsentToMonitor",
     "icon": "https://icons.duckduckgo.com/ip3/aiportal.army.mil.ico",
     "slug": "ai-portal",
-    "status": "up",
-    "uptime": "98.84%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "98.85%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.86%",
-    "uptimeYear": "98.84%",
+    "uptimeYear": "98.85%",
     "time": 2506,
     "timeDay": 6208,
     "timeWeek": 2130,
     "timeMonth": 1837,
     "timeYear": 2506,
     "dailyMinutesDown": {
+      "2023-04-14": 0,
       "2023-04-04": 44,
       "2023-03-21": 16,
       "2023-03-14": 56,
@@ -209,8 +210,7 @@
       "2022-11-22": 6,
       "2022-11-02": 51,
       "2022-10-26": 26,
-      "2022-10-11": 32,
-      "2022-10-09": 20
+      "2022-10-11": 32
     }
   }
 ]
