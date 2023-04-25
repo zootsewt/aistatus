@@ -4,19 +4,19 @@
     "url": "https://www.armyignited.army.mil/student/public/welcome",
     "icon": "https://icons.duckduckgo.com/ip3/www.armyignited.army.mil.ico",
     "slug": "ai-for-students",
-    "status": "up",
+    "status": "down",
     "uptime": "98.94%",
-    "uptimeDay": "96.47%",
-    "uptimeWeek": "98.95%",
+    "uptimeDay": "97.42%",
+    "uptimeWeek": "98.93%",
     "uptimeMonth": "99.48%",
     "uptimeYear": "98.94%",
     "time": 2451,
-    "timeDay": 2310,
+    "timeDay": 2972,
     "timeWeek": 3124,
     "timeMonth": 1785,
     "timeYear": 2451,
     "dailyMinutesDown": {
-      "2023-04-25": 15,
+      "2023-04-25": 16,
       "2023-04-24": 35,
       "2023-04-23": 55,
       "2023-04-16": 43,
@@ -65,7 +65,7 @@
       "2022-12-08": 62,
       "2022-12-05": 63,
       "2022-12-04": 155,
-      "2022-12-03": 60
+      "2022-12-03": 35
     }
   },
   {
@@ -73,18 +73,19 @@
     "url": "https://armyignited.army.mil/admin/",
     "icon": "https://icons.duckduckgo.com/ip3/armyignited.army.mil.ico",
     "slug": "ai-for-admin",
-    "status": "up",
-    "uptime": "98.82%",
-    "uptimeDay": "92.53%",
-    "uptimeWeek": "98.75%",
+    "status": "down",
+    "uptime": "98.83%",
+    "uptimeDay": "92.47%",
+    "uptimeWeek": "98.74%",
     "uptimeMonth": "98.21%",
-    "uptimeYear": "98.82%",
+    "uptimeYear": "98.83%",
     "time": 3036,
-    "timeDay": 1949,
+    "timeDay": 2281,
     "timeWeek": 2093,
     "timeMonth": 2958,
     "timeYear": 3036,
     "dailyMinutesDown": {
+      "2023-04-25": 1,
       "2023-04-24": 127,
       "2023-04-16": 56,
       "2023-04-14": 56,
@@ -133,7 +134,7 @@
       "2023-01-02": 180,
       "2023-01-01": 75,
       "2022-12-31": 232,
-      "2022-12-30": 213
+      "2022-12-30": 192
     }
   },
   {
@@ -141,18 +142,19 @@
     "url": "https://aiportal.army.mil/aiportal/Account/ConsentToMonitor",
     "icon": "https://icons.duckduckgo.com/ip3/aiportal.army.mil.ico",
     "slug": "ai-portal",
-    "status": "up",
-    "uptime": "98.89%",
-    "uptimeDay": "97.47%",
+    "status": "down",
+    "uptime": "98.90%",
+    "uptimeDay": "97.45%",
     "uptimeWeek": "99.64%",
     "uptimeMonth": "99.72%",
-    "uptimeYear": "98.89%",
+    "uptimeYear": "98.90%",
     "time": 2451,
-    "timeDay": 1031,
+    "timeDay": 783,
     "timeWeek": 832,
     "timeMonth": 1367,
     "timeYear": 2451,
     "dailyMinutesDown": {
+      "2023-04-25": 0,
       "2023-04-24": 36,
       "2023-04-14": 43,
       "2023-04-04": 44,
@@ -212,8 +214,7 @@
       "2022-11-28": 19,
       "2022-11-23": 141,
       "2022-11-22": 6,
-      "2022-11-02": 51,
-      "2022-10-26": 26
+      "2022-11-02": 51
     }
   }
 ]
