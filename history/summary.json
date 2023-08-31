@@ -80,18 +80,19 @@
     "url": "https://armyignited.army.mil/admin/",
     "icon": "https://icons.duckduckgo.com/ip3/armyignited.army.mil.ico",
     "slug": "ai-for-admin",
-    "status": "up",
-    "uptime": "99.30%",
-    "uptimeDay": "97.41%",
-    "uptimeWeek": "99.03%",
+    "status": "down",
+    "uptime": "99.31%",
+    "uptimeDay": "97.34%",
+    "uptimeWeek": "99.02%",
     "uptimeMonth": "99.41%",
-    "uptimeYear": "99.30%",
+    "uptimeYear": "99.31%",
     "time": 2726,
     "timeDay": 3392,
     "timeWeek": 1175,
     "timeMonth": 1404,
     "timeYear": 2725,
     "dailyMinutesDown": {
+      "2023-08-31": 1,
       "2023-08-30": 37,
       "2023-08-26": 40,
       "2023-08-24": 21,
@@ -150,7 +151,7 @@
       "2023-01-11": 149,
       "2023-01-10": 197,
       "2023-01-09": 81,
-      "2023-01-08": 198
+      "2023-01-08": 141
     }
   },
   {
@@ -158,18 +159,19 @@
     "url": "https://aiportal.army.mil/aiportal/Account/ConsentToMonitor",
     "icon": "https://icons.duckduckgo.com/ip3/aiportal.army.mil.ico",
     "slug": "ai-portal",
-    "status": "up",
-    "uptime": "99.15%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "99.16%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "95.24%",
     "uptimeMonth": "98.54%",
-    "uptimeYear": "99.15%",
+    "uptimeYear": "99.16%",
     "time": 2170,
     "timeDay": 553,
     "timeWeek": 1568,
     "timeMonth": 1147,
     "timeYear": 2170,
     "dailyMinutesDown": {
+      "2023-08-31": 0,
       "2023-08-26": 459,
       "2023-08-24": 21,
       "2023-08-14": 39,
@@ -236,7 +238,7 @@
       "2022-12-10": 33,
       "2022-12-08": 77,
       "2022-12-07": 19,
-      "2022-12-05": 38
+      "2022-12-05": 18
     }
   }
 ]
