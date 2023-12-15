@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.armyignited.army.mil.ico",
     "slug": "ai-for-students",
     "status": "down",
-    "uptime": "91.53%",
+    "uptime": "91.34%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "89.07%",
+    "uptimeYear": "88.80%",
     "time": 1929,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1542,
+    "timeYear": 1538,
     "dailyMinutesDown": {
-      "2023-12-14": 26,
+      "2023-12-15": 27,
+      "2023-12-14": 1440,
       "2023-12-13": 1440,
       "2023-12-12": 1440,
       "2023-12-11": 1440,
@@ -111,8 +112,7 @@
       "2022-12-19": 36,
       "2022-12-18": 20,
       "2022-12-17": 60,
-      "2022-12-16": 44,
-      "2022-12-15": 20
+      "2022-12-16": 44
     }
   },
   {
@@ -121,18 +121,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/armyignited.army.mil.ico",
     "slug": "ai-for-admin",
     "status": "down",
-    "uptime": "91.56%",
+    "uptime": "91.37%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "89.11%",
-    "time": 2596,
+    "uptimeYear": "88.83%",
+    "time": 2599,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 2400,
+    "timeYear": 2396,
     "dailyMinutesDown": {
-      "2023-12-14": 26,
+      "2023-12-15": 27,
+      "2023-12-14": 1440,
       "2023-12-13": 1440,
       "2023-12-12": 1440,
       "2023-12-11": 1440,
@@ -247,11 +248,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.16%",
-    "time": 1930,
-    "timeDay": 4434,
-    "timeWeek": 2023,
-    "timeMonth": 1720,
-    "timeYear": 1716,
+    "time": 1929,
+    "timeDay": 319,
+    "timeWeek": 1547,
+    "timeMonth": 1713,
+    "timeYear": 1715,
     "dailyMinutesDown": {
       "2023-11-27": 18,
       "2023-10-31": 44,
@@ -318,8 +319,7 @@
       "2022-12-19": 139,
       "2022-12-18": 36,
       "2022-12-17": 55,
-      "2022-12-16": 77,
-      "2022-12-15": 60
+      "2022-12-16": 77
     }
   }
 ]
