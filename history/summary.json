@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.armyignited.army.mil.ico",
     "slug": "ai-for-students",
     "status": "down",
-    "uptime": "90.95%",
+    "uptime": "90.76%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "88.26%",
-    "time": 1921,
+    "uptimeYear": "88.00%",
+    "time": 1914,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1519,
+    "timeYear": 1523,
     "dailyMinutesDown": {
-      "2023-12-17": 29,
+      "2023-12-18": 28,
+      "2023-12-17": 1440,
       "2023-12-16": 1440,
       "2023-12-15": 1440,
       "2023-12-14": 1440,
@@ -111,8 +112,7 @@
       "2022-12-24": 146,
       "2022-12-22": 45,
       "2022-12-20": 32,
-      "2022-12-19": 36,
-      "2022-12-18": 20
+      "2022-12-19": 36
     }
   },
   {
@@ -121,18 +121,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/armyignited.army.mil.ico",
     "slug": "ai-for-admin",
     "status": "down",
-    "uptime": "90.98%",
+    "uptime": "90.79%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "88.28%",
+    "uptimeYear": "88.01%",
     "time": 2596,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 2405,
+    "timeYear": 2410,
     "dailyMinutesDown": {
-      "2023-12-17": 29,
+      "2023-12-18": 28,
+      "2023-12-17": 1440,
       "2023-12-16": 1440,
       "2023-12-15": 1440,
       "2023-12-14": 1440,
@@ -249,12 +250,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "99.19%",
-    "time": 1909,
-    "timeDay": 311,
-    "timeWeek": 998,
-    "timeMonth": 1594,
-    "timeYear": 1703,
+    "uptimeYear": "99.20%",
+    "time": 1898,
+    "timeDay": 517,
+    "timeWeek": 1008,
+    "timeMonth": 1595,
+    "timeYear": 1704,
     "dailyMinutesDown": {
       "2023-11-27": 18,
       "2023-10-31": 44,
@@ -318,8 +319,7 @@
       "2022-12-25": 91,
       "2022-12-24": 50,
       "2022-12-20": 30,
-      "2022-12-19": 139,
-      "2022-12-18": 36
+      "2022-12-19": 139
     }
   }
 ]
