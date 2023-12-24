@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.armyignited.army.mil.ico",
     "slug": "ai-for-students",
     "status": "down",
-    "uptime": "89.82%",
+    "uptime": "89.63%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "86.65%",
-    "time": 1913,
+    "uptimeYear": "86.38%",
+    "time": 1909,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1509,
+    "timeYear": 1511,
     "dailyMinutesDown": {
-      "2023-12-23": 24,
+      "2023-12-24": 28,
+      "2023-12-23": 1440,
       "2023-12-22": 1440,
       "2023-12-21": 1440,
       "2023-12-20": 1440,
@@ -113,8 +114,7 @@
       "2022-12-28": 146,
       "2022-12-27": 216,
       "2022-12-26": 141,
-      "2022-12-25": 172,
-      "2022-12-24": 146
+      "2022-12-25": 172
     }
   },
   {
@@ -123,18 +123,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/armyignited.army.mil.ico",
     "slug": "ai-for-admin",
     "status": "down",
-    "uptime": "89.85%",
+    "uptime": "89.66%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "86.64%",
-    "time": 2439,
+    "uptimeYear": "86.37%",
+    "time": 2443,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 2331,
+    "timeYear": 2330,
     "dailyMinutesDown": {
-      "2023-12-23": 25,
+      "2023-12-24": 28,
+      "2023-12-23": 1440,
       "2023-12-22": 1440,
       "2023-12-21": 1440,
       "2023-12-20": 1440,
@@ -259,10 +260,10 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.24%",
     "time": 1882,
-    "timeDay": 386,
-    "timeWeek": 401,
-    "timeMonth": 1433,
-    "timeYear": 1670,
+    "timeDay": 457,
+    "timeWeek": 422,
+    "timeMonth": 1437,
+    "timeYear": 1667,
     "dailyMinutesDown": {
       "2023-11-27": 18,
       "2023-10-31": 44,
@@ -323,8 +324,7 @@
       "2022-12-29": 326,
       "2022-12-28": 152,
       "2022-12-27": 73,
-      "2022-12-25": 91,
-      "2022-12-24": 50
+      "2022-12-25": 91
     }
   }
 ]
