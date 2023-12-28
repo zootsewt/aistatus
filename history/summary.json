@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.armyignited.army.mil.ico",
     "slug": "ai-for-students",
     "status": "down",
-    "uptime": "89.08%",
+    "uptime": "88.89%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "85.64%",
+    "uptimeYear": "85.41%",
     "time": 1904,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1461,
+    "timeYear": 1464,
     "dailyMinutesDown": {
-      "2023-12-27": 25,
+      "2023-12-28": 26,
+      "2023-12-27": 1440,
       "2023-12-26": 1440,
       "2023-12-25": 1440,
       "2023-12-24": 1440,
@@ -113,8 +114,7 @@
       "2023-01-01": 99,
       "2022-12-31": 189,
       "2022-12-30": 68,
-      "2022-12-29": 149,
-      "2022-12-28": 146
+      "2022-12-29": 149
     }
   },
   {
@@ -123,18 +123,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/armyignited.army.mil.ico",
     "slug": "ai-for-admin",
     "status": "down",
-    "uptime": "89.10%",
+    "uptime": "88.92%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "85.55%",
+    "uptimeYear": "85.27%",
     "time": 2439,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 2264,
+    "timeYear": 2260,
     "dailyMinutesDown": {
-      "2023-12-27": 25,
+      "2023-12-28": 26,
+      "2023-12-27": 1440,
       "2023-12-26": 1440,
       "2023-12-25": 1440,
       "2023-12-24": 1440,
@@ -260,13 +261,13 @@
     "uptime": "99.36%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.27%",
-    "time": 1876,
-    "timeDay": 320,
-    "timeWeek": 1048,
-    "timeMonth": 1562,
-    "timeYear": 1661,
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.28%",
+    "time": 1873,
+    "timeDay": 516,
+    "timeWeek": 1038,
+    "timeMonth": 1449,
+    "timeYear": 1645,
     "dailyMinutesDown": {
       "2023-11-27": 18,
       "2023-10-31": 44,
@@ -324,8 +325,7 @@
       "2023-01-01": 146,
       "2022-12-31": 94,
       "2022-12-30": 37,
-      "2022-12-29": 326,
-      "2022-12-28": 152
+      "2022-12-29": 326
     }
   }
 ]
