@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.armyignited.army.mil.ico",
     "slug": "ai-for-students",
     "status": "down",
-    "uptime": "88.29%",
+    "uptime": "88.17%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "84.59%",
-    "time": 1578,
+    "uptimeYear": "84.42%",
+    "time": 1580,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1384,
+    "timeYear": 1387,
     "dailyMinutesDown": {
-      "2023-12-31": 502,
+      "2024-01-01": 30,
+      "2023-12-31": 1440,
       "2023-12-30": 1440,
       "2023-12-29": 1440,
       "2023-12-28": 1440,
@@ -113,8 +114,7 @@
       "2023-01-08": 82,
       "2023-01-07": 81,
       "2023-01-04": 117,
-      "2023-01-03": 204,
-      "2023-01-01": 99
+      "2023-01-03": 204
     }
   },
   {
@@ -123,18 +123,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/armyignited.army.mil.ico",
     "slug": "ai-for-admin",
     "status": "down",
-    "uptime": "88.31%",
+    "uptime": "88.19%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "84.36%",
+    "uptimeYear": "84.17%",
     "time": 2429,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 2196,
+    "timeYear": 2161,
     "dailyMinutesDown": {
-      "2023-12-31": 502,
+      "2024-01-01": 30,
+      "2023-12-31": 1440,
       "2023-12-30": 1440,
       "2023-12-29": 1440,
       "2023-12-28": 1440,
@@ -265,12 +266,12 @@
     "uptimeDay": "97.09%",
     "uptimeWeek": "99.58%",
     "uptimeMonth": "99.90%",
-    "uptimeYear": "99.37%",
-    "time": 1881,
-    "timeDay": 2274,
-    "timeWeek": 1457,
-    "timeMonth": 1289,
-    "timeYear": 1577,
+    "uptimeYear": "99.39%",
+    "time": 1880,
+    "timeDay": 2156,
+    "timeWeek": 903,
+    "timeMonth": 1285,
+    "timeYear": 1582,
     "dailyMinutesDown": {
       "2023-12-31": 42,
       "2023-11-27": 18,
@@ -325,8 +326,7 @@
       "2023-01-06": 37,
       "2023-01-04": 63,
       "2023-01-03": 249,
-      "2023-01-02": 182,
-      "2023-01-01": 146
+      "2023-01-02": 182
     }
   }
 ]
