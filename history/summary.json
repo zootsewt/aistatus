@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.armyignited.army.mil.ico",
     "slug": "ai-for-students",
     "status": "down",
-    "uptime": "86.57%",
+    "uptime": "86.40%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "82.07%",
-    "time": 1572,
+    "uptimeYear": "81.81%",
+    "time": 1575,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1320,
+    "timeYear": 1302,
     "dailyMinutesDown": {
-      "2024-01-10": 27,
+      "2024-01-11": 27,
+      "2024-01-10": 1440,
       "2024-01-09": 1440,
       "2024-01-08": 1440,
       "2024-01-07": 1440,
@@ -116,8 +117,7 @@
       "2023-01-21": 100,
       "2023-01-20": 33,
       "2023-01-16": 47,
-      "2023-01-12": 46,
-      "2023-01-11": 90
+      "2023-01-12": 46
     }
   },
   {
@@ -126,18 +126,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/armyignited.army.mil.ico",
     "slug": "ai-for-admin",
     "status": "down",
-    "uptime": "86.60%",
+    "uptime": "86.43%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "81.71%",
+    "uptimeYear": "81.44%",
     "time": 2317,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 2039,
+    "timeYear": 2022,
     "dailyMinutesDown": {
-      "2024-01-10": 27,
+      "2024-01-11": 27,
+      "2024-01-10": 1440,
       "2024-01-09": 1440,
       "2024-01-08": 1440,
       "2024-01-07": 1440,
@@ -263,8 +264,7 @@
       "2023-01-15": 132,
       "2023-01-14": 83,
       "2023-01-13": 19,
-      "2023-01-12": 100,
-      "2023-01-11": 149
+      "2023-01-12": 100
     }
   },
   {
@@ -277,12 +277,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.90%",
-    "uptimeYear": "99.54%",
-    "time": 1705,
-    "timeDay": 3669,
-    "timeWeek": 2164,
-    "timeMonth": 1283,
-    "timeYear": 1589,
+    "uptimeYear": "99.55%",
+    "time": 1703,
+    "timeDay": 835,
+    "timeWeek": 1617,
+    "timeMonth": 1295,
+    "timeYear": 1582,
     "dailyMinutesDown": {
       "2023-12-31": 42,
       "2023-11-27": 18,
@@ -329,8 +329,7 @@
       "2023-01-19": 17,
       "2023-01-15": 55,
       "2023-01-14": 21,
-      "2023-01-12": 18,
-      "2023-01-11": 135
+      "2023-01-12": 18
     }
   }
 ]
