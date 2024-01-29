@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.armyignited.army.mil.ico",
     "slug": "ai-for-students",
     "status": "down",
-    "uptime": "83.56%",
+    "uptime": "83.39%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "77.23%",
-    "time": 1516,
+    "uptimeYear": "76.96%",
+    "time": 1519,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1216,
+    "timeYear": 1220,
     "dailyMinutesDown": {
-      "2024-01-28": 27,
+      "2024-01-29": 26,
+      "2024-01-28": 1440,
       "2024-01-27": 1440,
       "2024-01-26": 1440,
       "2024-01-25": 1440,
@@ -137,18 +138,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/armyignited.army.mil.ico",
     "slug": "ai-for-admin",
     "status": "down",
-    "uptime": "83.58%",
+    "uptime": "83.42%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "76.98%",
-    "time": 2274,
+    "uptimeYear": "76.71%",
+    "time": 2262,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1932,
+    "timeYear": 1928,
     "dailyMinutesDown": {
-      "2024-01-28": 27,
+      "2024-01-29": 26,
+      "2024-01-28": 1440,
       "2024-01-27": 1440,
       "2024-01-26": 1440,
       "2024-01-25": 1440,
@@ -275,8 +277,7 @@
       "2023-02-11": 17,
       "2023-02-03": 115,
       "2023-02-02": 66,
-      "2023-01-30": 61,
-      "2023-01-29": 35
+      "2023-01-30": 61
     }
   },
   {
@@ -290,11 +291,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.62%",
-    "time": 1675,
-    "timeDay": 330,
-    "timeWeek": 1721,
-    "timeMonth": 1554,
-    "timeYear": 1491,
+    "time": 1681,
+    "timeDay": 3786,
+    "timeWeek": 1530,
+    "timeMonth": 1656,
+    "timeYear": 1492,
     "dailyMinutesDown": {
       "2023-12-31": 42,
       "2023-11-27": 18,
@@ -332,8 +333,7 @@
       "2023-02-20": 63,
       "2023-02-11": 19,
       "2023-02-03": 58,
-      "2023-02-02": 23,
-      "2023-01-29": 23
+      "2023-02-02": 23
     }
   }
 ]
