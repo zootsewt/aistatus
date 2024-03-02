@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.armyignited.army.mil.ico",
     "slug": "ai-for-students",
     "status": "down",
-    "uptime": "78.51%",
+    "uptime": "78.39%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "4.67%",
-    "uptimeYear": "68.16%",
-    "time": 1486,
+    "uptimeYear": "67.93%",
+    "time": 1489,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1244,
+    "timeYear": 1233,
     "dailyMinutesDown": {
-      "2024-03-01": 278,
+      "2024-03-02": 24,
+      "2024-03-01": 1440,
       "2024-02-29": 1440,
       "2024-02-28": 1440,
       "2024-02-27": 1440,
@@ -158,8 +159,7 @@
       "2023-03-21": 91,
       "2023-03-19": 31,
       "2023-03-11": 17,
-      "2023-03-06": 63,
-      "2023-03-03": 17
+      "2023-03-06": 63
     }
   },
   {
@@ -168,18 +168,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/armyignited.army.mil.ico",
     "slug": "ai-for-admin",
     "status": "down",
-    "uptime": "78.53%",
+    "uptime": "78.42%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "4.67%",
-    "uptimeYear": "67.96%",
-    "time": 2006,
+    "uptimeYear": "67.75%",
+    "time": 1986,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1910,
+    "timeYear": 1876,
     "dailyMinutesDown": {
-      "2024-03-01": 278,
+      "2024-03-02": 24,
+      "2024-03-01": 1440,
       "2024-02-29": 1440,
       "2024-02-28": 1440,
       "2024-02-27": 1440,
@@ -331,8 +332,7 @@
       "2023-03-27": 46,
       "2023-03-21": 59,
       "2023-03-11": 98,
-      "2023-03-09": 44,
-      "2023-03-03": 17
+      "2023-03-09": 44
     }
   },
   {
@@ -341,18 +341,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/aiportal.army.mil.ico",
     "slug": "ai-portal",
     "status": "up",
-    "uptime": "99.45%",
-    "uptimeDay": "98.97%",
-    "uptimeWeek": "99.44%",
-    "uptimeMonth": "99.14%",
-    "uptimeYear": "99.59%",
-    "time": 1619,
-    "timeDay": 577,
-    "timeWeek": 1136,
+    "uptime": "99.44%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.59%",
+    "uptimeMonth": "99.18%",
+    "uptimeYear": "99.60%",
+    "time": 1610,
+    "timeDay": 486,
+    "timeWeek": 747,
     "timeMonth": 1876,
-    "timeYear": 1426,
+    "timeYear": 1425,
     "dailyMinutesDown": {
-      "2024-03-01": 15,
       "2024-02-26": 19,
       "2024-02-25": 22,
       "2024-02-18": 65,
@@ -393,8 +392,7 @@
       "2023-03-14": 56,
       "2023-03-11": 16,
       "2023-03-05": 123,
-      "2023-03-04": 21,
-      "2023-03-03": 16
+      "2023-03-04": 21
     }
   }
 ]
