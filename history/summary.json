@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.armyignited.army.mil.ico",
     "slug": "ai-for-students",
     "status": "down",
-    "uptime": "72.94%",
+    "uptime": "72.83%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "56.71%",
+    "uptimeYear": "56.48%",
     "time": 1380,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1214,
+    "timeYear": 1220,
     "dailyMinutesDown": {
-      "2024-04-12": 200,
+      "2024-04-13": 22,
+      "2024-04-12": 1440,
       "2024-04-11": 1440,
       "2024-04-10": 1440,
       "2024-04-09": 1440,
@@ -203,18 +204,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/armyignited.army.mil.ico",
     "slug": "ai-for-admin",
     "status": "down",
-    "uptime": "72.96%",
+    "uptime": "72.86%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "56.59%",
-    "time": 1939,
+    "uptimeYear": "56.36%",
+    "time": 1943,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1698,
     "dailyMinutesDown": {
-      "2024-04-12": 200,
+      "2024-04-13": 22,
+      "2024-04-12": 1440,
       "2024-04-11": 1440,
       "2024-04-10": 1440,
       "2024-04-09": 1440,
@@ -398,8 +400,7 @@
       "2023-05-01": 87,
       "2023-04-25": 19,
       "2023-04-24": 127,
-      "2023-04-16": 56,
-      "2023-04-14": 56
+      "2023-04-16": 56
     }
   },
   {
@@ -413,11 +414,11 @@
     "uptimeWeek": "82.16%",
     "uptimeMonth": "95.77%",
     "uptimeYear": "99.26%",
-    "time": 1518,
-    "timeDay": 940,
-    "timeWeek": 1012,
-    "timeMonth": 1181,
-    "timeYear": 1388,
+    "time": 1519,
+    "timeDay": 3218,
+    "timeWeek": 1400,
+    "timeMonth": 1303,
+    "timeYear": 1386,
     "dailyMinutesDown": {
       "2024-04-12": 120,
       "2024-04-08": 323,
@@ -460,8 +461,7 @@
       "2023-05-07": 30,
       "2023-04-28": 21,
       "2023-04-25": 19,
-      "2023-04-24": 36,
-      "2023-04-14": 43
+      "2023-04-24": 36
     }
   }
 ]
