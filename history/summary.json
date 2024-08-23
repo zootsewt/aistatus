@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.armyignited.army.mil.ico",
     "slug": "ai-for-students",
     "status": "down",
-    "uptime": "59.64%",
+    "uptime": "59.56%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "20.70%",
-    "time": 1108,
+    "uptimeYear": "20.42%",
+    "time": 1111,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 878,
+    "timeYear": 885,
     "dailyMinutesDown": {
-      "2024-08-22": 30,
+      "2024-08-23": 30,
+      "2024-08-22": 1440,
       "2024-08-21": 1440,
       "2024-08-20": 1440,
       "2024-08-19": 1440,
@@ -311,8 +312,7 @@
       "2023-10-06": 34,
       "2023-09-15": 17,
       "2023-09-12": 21,
-      "2023-08-26": 40,
-      "2023-08-24": 22
+      "2023-08-26": 40
     }
   },
   {
@@ -321,16 +321,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/armyignited.army.mil.ico",
     "slug": "ai-for-admin",
     "status": "up",
-    "uptime": "64.27%",
+    "uptime": "64.32%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.80%",
     "uptimeYear": "29.64%",
-    "time": 1540,
-    "timeDay": 1348,
-    "timeWeek": 796,
-    "timeMonth": 1331,
-    "timeYear": 1378,
+    "time": 1537,
+    "timeDay": 720,
+    "timeWeek": 795,
+    "timeMonth": 1332,
+    "timeYear": 1379,
     "dailyMinutesDown": {
       "2024-08-12": 285,
       "2024-08-11": 76,
@@ -606,8 +606,7 @@
       "2023-09-12": 21,
       "2023-08-31": 17,
       "2023-08-30": 37,
-      "2023-08-26": 40,
-      "2023-08-24": 21
+      "2023-08-26": 40
     }
   },
   {
@@ -621,11 +620,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.87%",
     "uptimeYear": "99.23%",
-    "time": 1349,
-    "timeDay": 461,
-    "timeWeek": 620,
-    "timeMonth": 1491,
-    "timeYear": 1363,
+    "time": 1359,
+    "timeDay": 5369,
+    "timeWeek": 1297,
+    "timeMonth": 1510,
+    "timeYear": 1375,
     "dailyMinutesDown": {
       "2024-08-12": 143,
       "2024-08-11": 17,
@@ -668,8 +667,7 @@
       "2023-10-01": 36,
       "2023-09-12": 20,
       "2023-08-31": 16,
-      "2023-08-26": 459,
-      "2023-08-24": 21
+      "2023-08-26": 459
     }
   }
 ]
