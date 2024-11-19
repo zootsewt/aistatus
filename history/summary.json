@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.armyignited.army.mil.ico",
     "slug": "ai-for-students",
     "status": "down",
-    "uptime": "53.17%",
+    "uptime": "53.11%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 854,
+    "time": 858,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-11-18": 38,
+      "2024-11-19": 37,
+      "2024-11-18": 1440,
       "2024-11-17": 1440,
       "2024-11-16": 1440,
       "2024-11-15": 1440,
@@ -379,8 +380,7 @@
       "2023-11-24": 1440,
       "2023-11-23": 1440,
       "2023-11-22": 1440,
-      "2023-11-21": 1440,
-      "2023-11-20": 1440
+      "2023-11-21": 1440
     }
   },
   {
@@ -389,16 +389,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/armyignited.army.mil.ico",
     "slug": "ai-for-admin",
     "status": "up",
-    "uptime": "68.15%",
+    "uptime": "68.19%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.87%",
-    "uptimeYear": "32.80%",
-    "time": 1268,
-    "timeDay": 566,
-    "timeWeek": 1382,
-    "timeMonth": 837,
-    "timeYear": 1047,
+    "uptimeYear": "33.07%",
+    "time": 1255,
+    "timeDay": 701,
+    "timeWeek": 1369,
+    "timeMonth": 845,
+    "timeYear": 1044,
     "dailyMinutesDown": {
       "2024-11-02": 19,
       "2024-10-24": 37,
@@ -654,8 +654,7 @@
       "2023-11-24": 1440,
       "2023-11-23": 1440,
       "2023-11-22": 1440,
-      "2023-11-21": 1440,
-      "2023-11-20": 1440
+      "2023-11-21": 1440
     }
   },
   {
@@ -669,11 +668,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.34%",
-    "time": 1309,
-    "timeDay": 4215,
-    "timeWeek": 1594,
-    "timeMonth": 908,
-    "timeYear": 1301,
+    "time": 1308,
+    "timeDay": 636,
+    "timeWeek": 1602,
+    "timeMonth": 904,
+    "timeYear": 1302,
     "dailyMinutesDown": {
       "2024-10-24": 36,
       "2024-09-29": 19,
