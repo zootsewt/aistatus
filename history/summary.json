@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.armyignited.army.mil.ico",
     "slug": "ai-for-students",
     "status": "down",
-    "uptime": "47.49%",
+    "uptime": "47.44%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 900,
+    "time": 921,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-23": 38,
+      "2025-02-24": 37,
+      "2025-02-23": 1440,
       "2025-02-22": 1440,
       "2025-02-21": 1440,
       "2025-02-20": 1440,
@@ -379,8 +380,7 @@
       "2024-02-29": 1440,
       "2024-02-28": 1440,
       "2024-02-27": 1440,
-      "2024-02-26": 1440,
-      "2024-02-25": 1440
+      "2024-02-26": 1440
     }
   },
   {
@@ -389,16 +389,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/armyignited.army.mil.ico",
     "slug": "ai-for-admin",
     "status": "up",
-    "uptime": "71.54%",
-    "uptimeDay": "96.79%",
+    "uptime": "71.57%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.54%",
     "uptimeMonth": "99.68%",
-    "uptimeYear": "59.33%",
-    "time": 1039,
-    "timeDay": 537,
-    "timeWeek": 524,
-    "timeMonth": 715,
-    "timeYear": 928,
+    "uptimeYear": "59.60%",
+    "time": 1041,
+    "timeDay": 985,
+    "timeWeek": 553,
+    "timeMonth": 726,
+    "timeYear": 929,
     "dailyMinutesDown": {
       "2025-02-22": 46,
       "2025-01-27": 54,
@@ -561,8 +561,7 @@
       "2024-02-29": 1440,
       "2024-02-28": 1440,
       "2024-02-27": 1440,
-      "2024-02-26": 1440,
-      "2024-02-25": 1440
+      "2024-02-26": 1440
     }
   },
   {
@@ -572,15 +571,15 @@
     "slug": "ai-portal",
     "status": "up",
     "uptime": "99.56%",
-    "uptimeDay": "96.83%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.55%",
     "uptimeMonth": "99.66%",
     "uptimeYear": "99.35%",
-    "time": 1203,
-    "timeDay": 678,
-    "timeWeek": 910,
-    "timeMonth": 861,
-    "timeYear": 1083,
+    "time": 1196,
+    "timeDay": 573,
+    "timeWeek": 776,
+    "timeMonth": 860,
+    "timeYear": 1074,
     "dailyMinutesDown": {
       "2025-02-22": 46,
       "2025-01-26": 42,
@@ -614,8 +613,7 @@
       "2024-03-10": 42,
       "2024-03-04": 101,
       "2024-03-03": 35,
-      "2024-02-26": 19,
-      "2024-02-25": 22
+      "2024-02-26": 19
     }
   }
 ]
