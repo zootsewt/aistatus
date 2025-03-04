@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.armyignited.army.mil.ico",
     "slug": "ai-for-students",
     "status": "up",
-    "uptime": "47.76%",
+    "uptime": "47.82%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "89.34%",
-    "uptimeMonth": "28.51%",
-    "uptimeYear": "1.71%",
-    "time": 938,
-    "timeDay": 541,
-    "timeWeek": 579,
-    "timeMonth": 579,
-    "timeYear": 579,
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "31.80%",
+    "uptimeYear": "1.99%",
+    "time": 943,
+    "timeDay": 521,
+    "timeWeek": 575,
+    "timeMonth": 573,
+    "timeYear": 573,
     "dailyMinutesDown": {
       "2025-02-24": 1112,
       "2025-02-23": 1440,
@@ -372,8 +372,7 @@
       "2024-03-08": 1440,
       "2024-03-07": 1440,
       "2024-03-06": 1440,
-      "2024-03-05": 1440,
-      "2024-03-04": 1440
+      "2024-03-05": 1440
     }
   },
   {
@@ -382,16 +381,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/armyignited.army.mil.ico",
     "slug": "ai-for-admin",
     "status": "up",
-    "uptime": "71.79%",
+    "uptime": "71.82%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.89%",
-    "uptimeYear": "61.80%",
-    "time": 1034,
-    "timeDay": 4629,
-    "timeWeek": 1101,
-    "timeMonth": 800,
-    "timeYear": 933,
+    "uptimeYear": "62.07%",
+    "time": 1035,
+    "timeDay": 520,
+    "timeWeek": 1115,
+    "timeMonth": 791,
+    "timeYear": 932,
     "dailyMinutesDown": {
       "2025-02-22": 46,
       "2025-01-27": 54,
@@ -546,8 +545,7 @@
       "2024-03-08": 1440,
       "2024-03-07": 1440,
       "2024-03-06": 1440,
-      "2024-03-05": 1440,
-      "2024-03-04": 1440
+      "2024-03-05": 1440
     }
   },
   {
@@ -556,16 +554,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/aiportal.army.mil.ico",
     "slug": "ai-portal",
     "status": "up",
-    "uptime": "99.56%",
+    "uptime": "99.57%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.90%",
-    "uptimeYear": "99.36%",
+    "uptimeYear": "99.37%",
     "time": 1191,
-    "timeDay": 385,
-    "timeWeek": 608,
-    "timeMonth": 805,
-    "timeYear": 1075,
+    "timeDay": 529,
+    "timeWeek": 627,
+    "timeMonth": 807,
+    "timeYear": 1077,
     "dailyMinutesDown": {
       "2025-02-22": 46,
       "2025-01-26": 42,
@@ -596,8 +594,7 @@
       "2024-04-07": 1355,
       "2024-04-03": 20,
       "2024-03-26": 35,
-      "2024-03-10": 42,
-      "2024-03-04": 101
+      "2024-03-10": 42
     }
   }
 ]
