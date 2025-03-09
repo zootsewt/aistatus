@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.armyignited.army.mil.ico",
     "slug": "ai-for-students",
     "status": "up",
-    "uptime": "48.04%",
+    "uptime": "48.10%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "44.93%",
-    "uptimeYear": "3.08%",
-    "time": 982,
-    "timeDay": 521,
-    "timeWeek": 639,
-    "timeMonth": 605,
-    "timeYear": 605,
+    "uptimeMonth": "48.23%",
+    "uptimeYear": "3.36%",
+    "time": 984,
+    "timeDay": 345,
+    "timeWeek": 589,
+    "timeMonth": 587,
+    "timeYear": 587,
     "dailyMinutesDown": {
       "2025-02-24": 1112,
       "2025-02-23": 1440,
@@ -367,8 +367,7 @@
       "2024-03-13": 1440,
       "2024-03-12": 1440,
       "2024-03-11": 1440,
-      "2024-03-10": 1440,
-      "2024-03-09": 1440
+      "2024-03-10": 1440
     }
   },
   {
@@ -377,16 +376,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/armyignited.army.mil.ico",
     "slug": "ai-for-admin",
     "status": "up",
-    "uptime": "71.94%",
+    "uptime": "71.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.89%",
-    "uptimeYear": "63.16%",
-    "time": 1002,
-    "timeDay": 742,
-    "timeWeek": 1235,
-    "timeMonth": 769,
-    "timeYear": 929,
+    "uptimeYear": "63.44%",
+    "time": 991,
+    "timeDay": 870,
+    "timeWeek": 1276,
+    "timeMonth": 784,
+    "timeYear": 928,
     "dailyMinutesDown": {
       "2025-02-22": 46,
       "2025-01-27": 54,
@@ -536,8 +535,7 @@
       "2024-03-13": 1440,
       "2024-03-12": 1440,
       "2024-03-11": 1440,
-      "2024-03-10": 1440,
-      "2024-03-09": 1440
+      "2024-03-10": 1440
     }
   },
   {
@@ -551,10 +549,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.38%",
-    "time": 1183,
-    "timeDay": 685,
-    "timeWeek": 681,
-    "timeMonth": 705,
+    "time": 1184,
+    "timeDay": 406,
+    "timeWeek": 534,
+    "timeMonth": 709,
     "timeYear": 1079,
     "dailyMinutesDown": {
       "2025-02-22": 46,
