@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.armyignited.army.mil.ico",
     "slug": "ai-for-students",
     "status": "up",
-    "uptime": "49.63%",
+    "uptime": "49.68%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.82%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "11.03%",
-    "time": 908,
-    "timeDay": 872,
-    "timeWeek": 1165,
-    "timeMonth": 1014,
-    "timeYear": 908,
+    "uptimeYear": "11.30%",
+    "time": 901,
+    "timeDay": 565,
+    "timeWeek": 1159,
+    "timeMonth": 1009,
+    "timeYear": 901,
     "dailyMinutesDown": {
       "2025-04-02": 18,
       "2025-02-24": 1112,
@@ -339,8 +339,7 @@
       "2024-04-11": 1440,
       "2024-04-10": 1440,
       "2024-04-09": 1440,
-      "2024-04-08": 1440,
-      "2024-04-07": 1440
+      "2024-04-08": 1440
     }
   },
   {
@@ -349,16 +348,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/armyignited.army.mil.ico",
     "slug": "ai-for-admin",
     "status": "up",
-    "uptime": "72.80%",
+    "uptime": "72.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.83%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "71.11%",
+    "uptimeYear": "71.38%",
     "time": 984,
-    "timeDay": 713,
-    "timeWeek": 1659,
-    "timeMonth": 988,
-    "timeYear": 936,
+    "timeDay": 635,
+    "timeWeek": 1639,
+    "timeMonth": 980,
+    "timeYear": 935,
     "dailyMinutesDown": {
       "2025-04-02": 17,
       "2025-02-22": 46,
@@ -480,8 +479,7 @@
       "2024-04-11": 1440,
       "2024-04-10": 1440,
       "2024-04-09": 1440,
-      "2024-04-08": 1440,
-      "2024-04-07": 1440
+      "2024-04-08": 1440
     }
   },
   {
@@ -496,10 +494,10 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.40%",
     "time": 1163,
-    "timeDay": 561,
-    "timeWeek": 1002,
-    "timeMonth": 1068,
-    "timeYear": 1077,
+    "timeDay": 658,
+    "timeWeek": 997,
+    "timeMonth": 1071,
+    "timeYear": 1065,
     "dailyMinutesDown": {
       "2025-04-02": 17,
       "2025-02-22": 46,
@@ -527,8 +525,7 @@
       "2024-04-28": 42,
       "2024-04-27": 35,
       "2024-04-12": 120,
-      "2024-04-08": 323,
-      "2024-04-07": 1355
+      "2024-04-08": 323
     }
   }
 ]
