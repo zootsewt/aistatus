@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.armyignited.army.mil.ico",
     "slug": "ai-for-students",
     "status": "up",
-    "uptime": "51.47%",
+    "uptime": "51.52%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "20.89%",
-    "time": 800,
-    "timeDay": 896,
-    "timeWeek": 648,
-    "timeMonth": 688,
-    "timeYear": 800,
+    "uptimeYear": "21.16%",
+    "time": 802,
+    "timeDay": 957,
+    "timeWeek": 707,
+    "timeMonth": 633,
+    "timeYear": 802,
     "dailyMinutesDown": {
       "2025-04-02": 18,
       "2025-02-24": 1112,
@@ -303,8 +303,7 @@
       "2024-05-17": 1440,
       "2024-05-16": 1440,
       "2024-05-15": 1440,
-      "2024-05-14": 1440,
-      "2024-05-13": 1440
+      "2024-05-14": 1440
     }
   },
   {
@@ -313,16 +312,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/armyignited.army.mil.ico",
     "slug": "ai-for-admin",
     "status": "up",
-    "uptime": "73.79%",
+    "uptime": "73.82%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "80.97%",
-    "time": 920,
-    "timeDay": 694,
-    "timeWeek": 614,
-    "timeMonth": 831,
-    "timeYear": 920,
+    "uptimeYear": "81.25%",
+    "time": 919,
+    "timeDay": 644,
+    "timeWeek": 621,
+    "timeMonth": 782,
+    "timeYear": 919,
     "dailyMinutesDown": {
       "2025-04-02": 17,
       "2025-02-22": 46,
@@ -408,8 +407,7 @@
       "2024-05-17": 1440,
       "2024-05-16": 1440,
       "2024-05-15": 1440,
-      "2024-05-14": 1440,
-      "2024-05-13": 1440
+      "2024-05-14": 1440
     }
   },
   {
@@ -423,11 +421,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.81%",
-    "time": 1113,
-    "timeDay": 759,
+    "time": 1106,
+    "timeDay": 596,
     "timeWeek": 1178,
-    "timeMonth": 761,
-    "timeYear": 1025,
+    "timeMonth": 768,
+    "timeYear": 1014,
     "dailyMinutesDown": {
       "2025-04-02": 17,
       "2025-02-22": 46,
