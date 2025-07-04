@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.armyignited.army.mil.ico",
     "slug": "ai-for-students",
     "status": "up",
-    "uptime": "53.90%",
+    "uptime": "53.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
-    "uptimeYear": "35.13%",
-    "time": 753,
-    "timeDay": 575,
-    "timeWeek": 603,
-    "timeMonth": 681,
-    "timeYear": 753,
+    "uptimeYear": "35.41%",
+    "time": 752,
+    "timeDay": 700,
+    "timeWeek": 625,
+    "timeMonth": 679,
+    "timeYear": 752,
     "dailyMinutesDown": {
       "2025-06-24": 20,
       "2025-04-02": 18,
@@ -252,8 +252,7 @@
       "2024-07-08": 1440,
       "2024-07-07": 1440,
       "2024-07-06": 1440,
-      "2024-07-05": 1440,
-      "2024-07-04": 1440
+      "2024-07-05": 1440
     }
   },
   {
@@ -262,15 +261,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/armyignited.army.mil.ico",
     "slug": "ai-for-admin",
     "status": "up",
-    "uptime": "75.11%",
+    "uptime": "75.13%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "95.21%",
+    "uptimeYear": "95.49%",
     "time": 947,
-    "timeDay": 907,
-    "timeWeek": 591,
-    "timeMonth": 660,
+    "timeDay": 970,
+    "timeWeek": 665,
+    "timeMonth": 667,
     "timeYear": 947,
     "dailyMinutesDown": {
       "2025-06-24": 19,
@@ -306,8 +305,7 @@
       "2024-07-08": 1440,
       "2024-07-07": 1440,
       "2024-07-06": 1440,
-      "2024-07-05": 1440,
-      "2024-07-04": 1440
+      "2024-07-05": 1440
     }
   },
   {
@@ -322,10 +320,10 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.82%",
     "time": 1021,
-    "timeDay": 630,
-    "timeWeek": 571,
-    "timeMonth": 660,
-    "timeYear": 982,
+    "timeDay": 571,
+    "timeWeek": 572,
+    "timeMonth": 650,
+    "timeYear": 981,
     "dailyMinutesDown": {
       "2025-06-24": 19,
       "2025-04-02": 17,
