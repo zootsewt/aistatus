@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.armyignited.army.mil.ico",
     "slug": "ai-for-students",
     "status": "up",
-    "uptime": "65.72%",
+    "uptime": "65.73%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -60,17 +60,17 @@
     "url": "https://aiportal.army.mil/aiportal/Account/ConsentToMonitor",
     "icon": "https://icons.duckduckgo.com/ip3/aiportal.army.mil.ico",
     "slug": "ai-portal",
-    "status": "down",
+    "status": "up",
     "uptime": "99.42%",
-    "uptimeDay": "81.82%",
-    "uptimeWeek": "93.94%",
-    "uptimeMonth": "97.55%",
-    "uptimeYear": "98.49%",
-    "time": 1228,
-    "timeDay": 5070,
-    "timeWeek": 4153,
-    "timeMonth": 3387,
-    "timeYear": 1379,
+    "uptimeDay": "71.46%",
+    "uptimeWeek": "92.46%",
+    "uptimeMonth": "97.21%",
+    "uptimeYear": "98.46%",
+    "time": 1242,
+    "timeDay": 6014,
+    "timeWeek": 4528,
+    "timeMonth": 3513,
+    "timeYear": 1396,
     "dailyMinutesDown": {
       "2025-07-10": 57,
       "2025-07-20": 229,
@@ -114,7 +114,7 @@
       "2026-06-16": 188,
       "2026-06-29": 46,
       "2026-06-30": 302,
-      "2026-07-02": 262
+      "2026-07-02": 411
     }
   }
 ]
