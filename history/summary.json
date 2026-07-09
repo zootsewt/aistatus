@@ -60,17 +60,17 @@
     "url": "https://aiportal.army.mil/aiportal/Account/ConsentToMonitor",
     "icon": "https://icons.duckduckgo.com/ip3/aiportal.army.mil.ico",
     "slug": "ai-portal",
-    "status": "down",
-    "uptime": "99.37%",
-    "uptimeDay": "95.63%",
-    "uptimeWeek": "84.75%",
-    "uptimeMonth": "94.61%",
-    "uptimeYear": "98.20%",
-    "time": 1314,
-    "timeDay": 2940,
-    "timeWeek": 3635,
-    "timeMonth": 3546,
-    "timeYear": 1476,
+    "status": "up",
+    "uptime": "99.36%",
+    "uptimeDay": "78.07%",
+    "uptimeWeek": "82.24%",
+    "uptimeMonth": "94.03%",
+    "uptimeYear": "98.15%",
+    "time": 1317,
+    "timeDay": 2582,
+    "timeWeek": 3547,
+    "timeMonth": 3514,
+    "timeYear": 1477,
     "dailyMinutesDown": {
       "2025-07-10": 57,
       "2025-07-20": 229,
@@ -120,7 +120,7 @@
       "2026-07-05": 148,
       "2026-07-07": 223,
       "2026-07-08": 62,
-      "2026-07-09": 63
+      "2026-07-09": 316
     }
   }
 ]
