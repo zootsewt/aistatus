@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.42%",
     "time": 1401,
-    "timeDay": 1479,
-    "timeWeek": 1146,
-    "timeMonth": 2160,
-    "timeYear": 1614,
+    "timeDay": 1206,
+    "timeWeek": 1211,
+    "timeMonth": 2004,
+    "timeYear": 1613,
     "dailyMinutesDown": {
       "2025-08-26": 47,
       "2025-08-30": 20,
@@ -37,9 +37,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.42%",
     "time": 865,
-    "timeDay": 479,
-    "timeWeek": 706,
-    "timeMonth": 1188,
+    "timeDay": 668,
+    "timeWeek": 744,
+    "timeMonth": 1172,
     "timeYear": 809,
     "dailyMinutesDown": {
       "2025-08-26": 46,
@@ -58,14 +58,14 @@
     "slug": "ai-portal",
     "status": "down",
     "uptime": "99.36%",
-    "uptimeDay": "90.87%",
-    "uptimeWeek": "83.05%",
-    "uptimeMonth": "89.39%",
-    "uptimeYear": "97.78%",
-    "time": 1438,
-    "timeDay": 3348,
-    "timeWeek": 3121,
-    "timeMonth": 3368,
+    "uptimeDay": "84.16%",
+    "uptimeWeek": "82.10%",
+    "uptimeMonth": "89.17%",
+    "uptimeYear": "97.76%",
+    "time": 1440,
+    "timeDay": 3114,
+    "timeWeek": 3114,
+    "timeMonth": 3365,
     "timeYear": 1597,
     "dailyMinutesDown": {
       "2025-08-20": 48,
@@ -124,7 +124,8 @@
       "2026-07-16": 477,
       "2026-07-17": 429,
       "2026-07-19": 409,
-      "2026-07-20": 131
+      "2026-07-20": 153,
+      "2026-07-21": 74
     }
   }
 ]
