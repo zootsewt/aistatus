@@ -56,9 +56,9 @@
     "url": "https://aiportal.army.mil/aiportal/Account/ConsentToMonitor",
     "icon": "https://icons.duckduckgo.com/ip3/aiportal.army.mil.ico",
     "slug": "ai-portal",
-    "status": "up",
+    "status": "down",
     "uptime": "99.34%",
-    "uptimeDay": "83.54%",
+    "uptimeDay": "83.53%",
     "uptimeWeek": "86.72%",
     "uptimeMonth": "87.57%",
     "uptimeYear": "97.63%",
@@ -128,7 +128,8 @@
       "2026-07-21": 320,
       "2026-07-23": 94,
       "2026-07-24": 126,
-      "2026-07-25": 237
+      "2026-07-25": 237,
+      "2026-07-26": 0
     }
   }
 ]
