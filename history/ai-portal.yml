@@ -1,7 +1,7 @@
 url: https://aiportal.army.mil/aiportal/Account/ConsentToMonitor
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2026-08-18T05:05:11.487Z
+status: up
+code: 200
+responseTime: 2714
+lastUpdated: 2026-08-18T05:56:35.324Z
 startTime: 2022-09-01T19:25:07.000Z
 generator: Upptime <https://github.com/upptime/upptime>
