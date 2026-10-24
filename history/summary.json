@@ -4,23 +4,23 @@
     "url": "https://www.armyignited.army.mil/student/public/welcome",
     "icon": "https://icons.duckduckgo.com/ip3/www.armyignited.army.mil.ico",
     "slug": "ai-for-students",
-    "status": "down",
-    "uptime": "68.24%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "96.51%",
-    "uptimeYear": "99.69%",
-    "time": 1673,
-    "timeDay": 9744,
-    "timeWeek": 3929,
-    "timeMonth": 2255,
-    "timeYear": 1779,
+    "status": "degraded",
+    "uptime": "68.23%",
+    "uptimeDay": "77.67%",
+    "uptimeWeek": "96.81%",
+    "uptimeMonth": "95.78%",
+    "uptimeYear": "99.63%",
+    "time": 1745,
+    "timeDay": 18609,
+    "timeWeek": 7530,
+    "timeMonth": 3258,
+    "timeYear": 1872,
     "dailyMinutesDown": {
       "2026-03-29": 51,
       "2026-04-16": 56,
       "2026-10-02": 1253,
       "2026-10-01": 275,
-      "2026-10-24": 1
+      "2026-10-24": 322
     }
   },
   {
@@ -28,23 +28,23 @@
     "url": "https://armyignited.army.mil/admin/",
     "icon": "https://icons.duckduckgo.com/ip3/armyignited.army.mil.ico",
     "slug": "ai-for-admin",
-    "status": "down",
-    "uptime": "82.76%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "96.51%",
-    "uptimeYear": "99.69%",
-    "time": 915,
-    "timeDay": 7478,
-    "timeWeek": 2664,
-    "timeMonth": 1420,
-    "timeYear": 926,
+    "status": "degraded",
+    "uptime": "82.75%",
+    "uptimeDay": "77.73%",
+    "uptimeWeek": "96.82%",
+    "uptimeMonth": "95.78%",
+    "uptimeYear": "99.63%",
+    "time": 997,
+    "timeDay": 18648,
+    "timeWeek": 6922,
+    "timeMonth": 2584,
+    "timeYear": 1033,
     "dailyMinutesDown": {
       "2026-03-29": 51,
       "2026-04-16": 56,
       "2026-10-02": 1253,
       "2026-10-01": 275,
-      "2026-10-24": 0
+      "2026-10-24": 321
     }
   },
   {
@@ -53,11 +53,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/aiportal.army.mil.ico",
     "slug": "ai-portal",
     "status": "down",
-    "uptime": "99.28%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "97.70%",
-    "uptimeYear": "97.12%",
+    "uptime": "99.27%",
+    "uptimeDay": "77.75%",
+    "uptimeWeek": "96.82%",
+    "uptimeMonth": "96.96%",
+    "uptimeYear": "97.05%",
     "time": 1963,
     "timeDay": 8991,
     "timeWeek": 3643,
@@ -132,7 +132,7 @@
       "2026-08-25": 48,
       "2026-10-02": 972,
       "2026-10-01": 37,
-      "2026-10-24": 0
+      "2026-10-24": 320
     }
   }
 ]
