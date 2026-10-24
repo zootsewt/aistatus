@@ -1,7 +1,7 @@
 url: https://armyignited.army.mil/admin/
-status: down
-code: 503
-responseTime: 13299
-lastUpdated: 2026-10-24T16:12:02.985Z
+status: degraded
+code: 504
+responseTime: 40987
+lastUpdated: 2026-10-24T21:32:20.139Z
 startTime: 2022-08-29T18:37:31.000Z
 generator: Upptime <https://github.com/upptime/upptime>
