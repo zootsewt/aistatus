@@ -4,13 +4,13 @@
     "url": "https://www.armyignited.army.mil/student/public/welcome",
     "icon": "https://icons.duckduckgo.com/ip3/www.armyignited.army.mil.ico",
     "slug": "ai-for-students",
-    "status": "up",
+    "status": "down",
     "uptime": "68.89%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.44%",
-    "time": 1957,
+    "time": 1958,
     "timeDay": 1383,
     "timeWeek": 2172,
     "timeMonth": 2931,
@@ -21,7 +21,8 @@
       "2026-10-02": 1253,
       "2026-10-01": 275,
       "2026-10-25": 832,
-      "2026-10-24": 469
+      "2026-10-24": 469,
+      "2026-11-28": 2
     }
   },
   {
@@ -29,13 +30,13 @@
     "url": "https://armyignited.army.mil/admin/",
     "icon": "https://icons.duckduckgo.com/ip3/armyignited.army.mil.ico",
     "slug": "ai-for-admin",
-    "status": "up",
-    "uptime": "83.08%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "83.09%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.44%",
-    "time": 1174,
+    "time": 1167,
     "timeDay": 1023,
     "timeWeek": 1510,
     "timeMonth": 1754,
@@ -46,7 +47,8 @@
       "2026-10-02": 1253,
       "2026-10-01": 275,
       "2026-10-25": 832,
-      "2026-10-24": 468
+      "2026-10-24": 468,
+      "2026-11-28": 0
     }
   },
   {
